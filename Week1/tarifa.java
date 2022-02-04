@@ -16,7 +16,7 @@
 
 import java.util.Scanner; 
 
-public class Main {
+public class tarifa {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); 
         int dataPerMonth = Integer.parseInt(sc.next());

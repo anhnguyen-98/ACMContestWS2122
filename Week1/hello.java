@@ -14,7 +14,7 @@
 
 * Runtime: 0.06 */
 
-public class Main {
+public class hello {
   public static void main(String args[]) {
     System.out.println("Hello World!");
   }

@@ -16,7 +16,7 @@
 
 import java.util.*; 
 
-public class Main {
+public class jumbojavelin {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); 
         int steel = Integer.parseInt(sc.next());

@@ -16,7 +16,7 @@
 
 import java.util.Scanner; 
 
-public class Main {
+public class triarea {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); 
         float height = Float.parseFloat(sc.next());
